@@ -7,6 +7,6 @@ created_at: "2026-05-15"
 
 # May 15th: migrating files and eda
 
-Today I tried to migrate some of the files from stasis, because I will need more time than stasis has, and this is a more "dedicated" (maybe??) ysws. Also fixed a bug in simulattion there the screen kept burning trough.
+Today I tried to migrate some of the files from stasis, because I will need more time than stasis has, and this is a more "dedicated" (maybe??) ysws. Also fixed a bug in simulattion there the screen kept burning trough. Also cleaned up the repo. 
 
 **Total time spent: 1 hours**
