@@ -156,3 +156,5 @@ Today I tried to migrate some of the files from stasis, because I will need more
 
 I have done some reasearch on pH soil analyzers, in the hope to find a cheap one. Or just a full and cheap soil analyzer, but they where all pretty expensive. I added a temp and moisture sensor, so I can at least not overwater my carrots.
  **Total time spent: 1 hour**
+ ![
+ ](image-1.png)![alt text](image-2.png)
