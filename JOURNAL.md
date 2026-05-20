@@ -168,3 +168,4 @@ I have done some reasearch on pH soil analyzers, in the hope to find a cheap one
   
  ](image-4.png)
 ![alt text](image-5.png)
+**Total time spent: 1.5 hour**
