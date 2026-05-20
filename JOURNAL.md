@@ -158,3 +158,13 @@ I have done some reasearch on pH soil analyzers, in the hope to find a cheap one
  **Total time spent: 1 hour**
  ![
  ](image-1.png)![alt text](image-2.png)
+
+ # May 20th: Worked of finding an alternative esp that supports LoRa, and
+
+ Also worked on finding the esp for in the garden. Doring the time I also found out that I had the wrong Kicad sym, and chaged that. Also Actually worked on storing the items in a cart in otronic :).
+
+ ![alt text](image-3.png)
+ ![
+  
+ ](image-4.png)
+![alt text](image-5.png)
