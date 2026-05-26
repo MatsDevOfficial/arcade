@@ -1,0 +1,13 @@
+Onderdeel,Aantal,Prijs_EUR,Opmerking,Link
+ESP32-S3 N16R8 Devboard (16MB Flash 8MB PSRAM),1,12.95,Hoofdunit bureau OLED mic knoppen,https://www.opencircuit.nl/product/esp32-s3-devkitc-1-n16r8
+ESP32-C3 Super Mini (WiFi BLE 4MB Flash),1,4.99,Plant node ESP-NOW zender,https://www.opencircuit.nl/product/esp32-c3-super-mini
+Mini OLED 0.96 inch 128x64 I2C wit SSD1306,1,5.99,Statusscherm GPIO21/22,https://www.opencircuit.nl/product/096-inch-oled-display-white-i2c
+INMP441 MEMS microfoon module 3.3V,1,,I2S audio GPIO14/15/32,https://www.opencircuit.nl/product/inmp441-omnidirectional-microphone-module
+Bodemvochtsensor met spanningsregelaar,1,4.00,Analog plant node GPIO0,https://www.opencircuit.nl/product/capacitive-soil-moisture-sensor
+DS18B20 waterdichte temperatuurprobe 1m kabel,1,2.95,OneWire plant node GPIO1,https://www.opencircuit.nl/product/waterproof-ds18b20-sensor
+Weerstand 4K7 Ohm 1/4W (set),1,1.25,Pull-up DS18B20 indien nodig,https://www.opencircuit.nl/product/weerstand-47-k-14-watt-5-47k
+3-aderige kabel 22AWG 1m rood/groen/wit,1,0.85,Sensorbekabeling,
+Krimpkous assortiment,1,4.70,Optioneel netjes afwerken,
+Drukknop 6x6mm,4,,Navigatie GPIO4/12/13/27,https://www.opencircuit.nl/product/drukknop-6x6mm
+Dupont jumperdraden set,1,,Prototype breadboard,
+USB-C datakabel,2,,Flashen en voeding beide boards,
