@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+pc_app/node_modules/
+
+# Build / OS
+dist/
+out/
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Arduino / PlatformIO (if added later)
+.pio/
+build/
+*.elf
+*.bin
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

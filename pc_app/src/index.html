@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self'"
+    />
+    <title>Smart Desk Assistant</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="header">
+        <div class="brand">
+          <div class="brand-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <rect x="3" y="10" width="18" height="8" rx="1" />
+              <path d="M7 10V6a5 5 0 0 1 10 0v4" />
+              <circle cx="12" cy="14" r="1.5" fill="currentColor" stroke="none" />
+            </svg>
+          </div>
+          <div>
+            <h1>Smart Desk Assistant</h1>
+            <p class="subtitle">ESP32 ecosystem · environmental monitoring · audio · ESP-NOW</p>
+          </div>
+        </div>
+        <div class="connection-bar">
+          <span id="status-pill" class="pill pill-offline">Offline</span>
+          <select id="port-select" aria-label="Serial port">
+            <option value="">Select port…</option>
+          </select>
+          <button id="btn-connect" class="btn btn-primary">Connect</button>
+          <button id="btn-disconnect" class="btn btn-ghost" disabled>Disconnect</button>
+        </div>
+      </header>
+
+      <main class="main">
+        <section class="metrics">
+          <article class="card" data-metric="temp">
+            <div class="card-label">
+              <span class="card-icon">🌡</span>
+              Temperature
+            </div>
+            <div class="card-value" id="val-temp">—</div>
+            <div class="card-unit">°C · DS18B20 (plant node)</div>
+          </article>
+
+          <article class="card" data-metric="soil">
+            <div class="card-label">
+              <span class="card-icon">💧</span>
+              Soil moisture
+            </div>
+            <div class="card-value" id="val-soil">—</div>
+            <div class="card-unit">% · capacitive sensor</div>
+            <div class="progress">
+              <div id="soil-bar" class="progress-fill"></div>
+            </div>
+          </article>
+
+          <article class="card" data-metric="mic">
+            <div class="card-label">
+              <span class="card-icon">🎙</span>
+              Microphone
+            </div>
+            <div class="card-value" id="val-mic">—</div>
+            <div class="card-unit">level · INMP441 on desk unit</div>
+            <div class="mic-meter">
+              <div id="mic-bar" class="mic-meter-fill"></div>
+            </div>
+          </article>
+
+          <article class="card" data-metric="node">
+            <div class="card-label">
+              <span class="card-icon">📡</span>
+              Plant node
+            </div>
+            <div class="card-value node-status" id="val-node">—</div>
+            <div class="card-unit" id="node-detail">ESP-NOW · ESP32-C3</div>
+          </article>
+        </section>
+
+        <section class="panels">
+          <div class="panel">
+            <h2>System overview</h2>
+            <ul class="feature-list">
+              <li>
+                <strong>Desk controller</strong>
+                ESP32-S3 · OLED · 4 buttons · I2S mic
+              </li>
+              <li>
+                <strong>Plant node</strong>
+                ESP32-C3 · soil + temperature · wireless
+              </li>
+              <li>
+                <strong>Wireless</strong>
+                ESP-NOW (sensor link) · USB serial (dashboard)
+              </li>
+            </ul>
+          </div>
+
+          <div class="panel">
+            <h2>Audio activity</h2>
+            <p class="panel-desc">Real-time sound level from the desk microphone. Clap/voice detection can be added in firmware.</p>
+            <div class="waveform" id="waveform" aria-hidden="true"></div>
+            <p class="hint" id="source-hint">Waiting for data…</p>
+          </div>
+
+          <div class="panel panel-wide">
+            <h2>Roadmap</h2>
+            <div class="tags">
+              <span class="tag">Home Assistant</span>
+              <span class="tag">MQTT</span>
+              <span class="tag">Wi-Fi telemetry</span>
+              <span class="tag">Voice assistant</span>
+              <span class="tag">Desk automation</span>
+              <span class="tag">CO₂ / air quality</span>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <span id="footer-status">Demo mode</span>
+        <span>115200 baud · JSON lines over USB</span>
+      </footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
