@@ -171,6 +171,6 @@ I have done some reasearch on pH soil analyzers, in the hope to find a cheap one
 # May 26'th: Firmware and BOM
 
 Today I wrote the basics of the firmware. I also tried the harder parts, but failed spectaculary; thats where cursor came in clutch :smiley:. I also finalized the bom, wrote the docs and added the [LICENSE.md](LICENSE.md)
-[:)](image20%copy.png)
+![:)](image20%copy.png)
 
 **Total time spent: 2.5 hours**
