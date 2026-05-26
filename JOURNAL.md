@@ -164,9 +164,7 @@ I have done some reasearch on pH soil analyzers, in the hope to find a cheap one
  Also worked on finding the esp for in the garden. Doring the time I also found out that I had the wrong Kicad sym, and chaged that. Also Actually worked on storing the items in a cart in otronic :).
 
  ![alt text](image-3.png)
- ![
-  
- ](image-4.png)
+ ![ ](image-4.png)
 ![alt text](image-5.png)
 **Total time spent: 1.5 hour**
 
@@ -174,3 +172,5 @@ I have done some reasearch on pH soil analyzers, in the hope to find a cheap one
 
 Today I wrote the basics of the firmware. I also tried the harder parts, but failed spectaculary; thats where cursor came in clutch :smiley:. I also finalized the bom, wrote the docs and added the [LICENSE.md](LICENSE.md)
 [:)](image20%copy.png)
+
+**Total time spent: 2.5 hours**
