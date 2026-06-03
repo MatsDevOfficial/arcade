@@ -25,7 +25,7 @@ also need a soldering iron
 
 # 3/6/2026 2 PM - Measureing and drawing
 
-_Time spent: 2.5h_
+_Time spent: 1.75h_
 
 This part of today I measured some voltages and accidentally ripped off the connector for the VDD:
 ![image](https://stasis.hackclub-assets.com/images/1772807648055-fim9ts.png)
@@ -41,7 +41,7 @@ I also worked on making the electrical schema, and went back to the drawing boar
 
 # 3/6/2026 2 PM - electrical schema
 
-_Time spent: 1.25h_
+_Time spent: 1h_
 
 Worked on the electrical schema, could not find a sym for the screen, so i use 24 pin conn. Spent like 0.9 hours srearching and 0.3 hours designing during my german lesson
 
@@ -57,7 +57,7 @@ Also tought about using a bettery ipv normal power
 
 # 3/6/2026 2 PM - Multimeasuring
 
-_Time spent: 2.5h_
+_Time spent: 2.25h_
 
 Today I searched for the correct voltages. It took way too long bc I had to convince my shop teacher to let me use the soldering iron, and had to solder the 4.5V input to a 9V battery
 
