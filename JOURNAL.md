@@ -98,7 +98,7 @@ Its probably the only thing i need to buy
 
 # 3/6/2026 2 PM - The start of all
 
-_Time spent: 1.5h_
+_Time spent: 1h_
 
 Worked on ID'ing the components, and seeing what is usable and what is not. The next steps will we to remove all the not usables, and starting make make some microcontrollers work
 
@@ -115,7 +115,7 @@ This looks big, is small
 
 # 4/28/2026 2 PM - Research, mailing and a bit of fire
 
-_Time spent: 1.5h_
+_Time spent: 1h_
 
 Sooo, I have pretty good news, after researching with friends. And luckily getting my hand on an extra screen, testing with a psu and even an oscilloscope I was able to find out that Action uses its own set of commands, connectors etc. That means I will soon be anding this screen to the bom:
 
@@ -155,7 +155,7 @@ Today I tried to migrate some of the files from stasis, because I will need more
 
 
 I have done some reasearch on pH soil analyzers, in the hope to find a cheap one. Or just a full and cheap soil analyzer, but they where all pretty expensive. I added a temp and moisture sensor, so I can at least not overwater my carrots.
- **Total time spent: 1 hour**
+ **Total time spent: 0.75 hour**
  ![
  ](image-1.png)![alt text](image-2.png)
 
@@ -164,13 +164,8 @@ I have done some reasearch on pH soil analyzers, in the hope to find a cheap one
  Also worked on finding the esp for in the garden. Doring the time I also found out that I had the wrong Kicad sym, and chaged that. Also Actually worked on storing the items in a cart in otronic :).
 
  ![alt text](image-3.png)
- ![ ](image-4.png)
+ ![
+  
+ ](image-4.png)
 ![alt text](image-5.png)
-**Total time spent: 1.5 hour**
-
-# May 26'th: Firmware and BOM
-
-Today I wrote the basics of the firmware. I also tried the harder parts, but failed spectaculary; thats where cursor came in clutch :smiley:. I also finalized the bom, wrote the docs and added the [LICENSE.md](LICENSE.md)
-![:)](image20%copy.png)
-
-**Total time spent: 2.5 hours**
+**Total time spent: 1 hour**
