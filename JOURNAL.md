@@ -175,7 +175,7 @@ I have done some reasearch on pH soil analyzers, in the hope to find a cheap one
 Today I wrote the basics of the firmware. I also tried the harder parts, but failed spectaculary; thats where cursor came in clutch :smiley:. I also finalized the bom, wrote the docs and added the [LICENSE.md](LICENSE.md)
 ![:)](image20%copy.png)
 
-**Total time spent: 2.25 hours**
+**Total time spent: 1.5 hours**
 
 # June 8'th
  Added the LiPo battery for the plant node, I forgot that the last time.
