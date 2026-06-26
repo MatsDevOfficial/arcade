@@ -6,7 +6,7 @@ This project started as a way to scramble old part i got from an ACTION arcade, 
 
 For this project I have decided that I do NOT want to use a pcb. That is bc I want to be able to add as much expantions as I want, which I just cant with a pcb.
 
-CAD is a different thing. I very sure want some enclosures, but do not have the full specs yet, so the desk part is not complete. The plant node is finished :jeej:, and the assembly drawing can be found in the CAD folder.
+CAD is a different thing. I very sure want some enclosures, but do not have the full specs yet, so the desk part is not complete. The plant node is finished :jeej:, and the assembly drawing can be found in the CAD folder. I will make place for heated insterts for the sceen, once I know where to. 
 
 # ABOUT THE JOURNALS
 This project will be resubmitted a third time, after making adjustments to (1) deflate time and (2) add CAD. I tried to debloat the time as much as possible, but since im not sure I am tracking time via lapse or, if not available undercompensating hours to balance out possibly inflated hours from the start of the project.
