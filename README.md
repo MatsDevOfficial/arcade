@@ -2,6 +2,22 @@
 
 This project started as a way to scramble old part i got from an ACTION arcade, so I wanted to make an arcade. But since I am an absolute noob at programming I decided to make a smart assistant. The functions for now are: ommidirectional listening, a screen, speakers via the PC, and connectivity with a separate node. That node is responsible for monitoring soil temperature and moisturisation. 
 
+### BOM
+
+The parts below were used for the desk and plant nodes. Each item links to the supplier page for easy reordering.
+
+| Part | Qty | Price | Link |
+| --- | ---: | ---: | --- |
+| Mini OLED display 0.96" 128x64 I2C | 1 | €5.99 | [Otronic](https://www.otronic.nl/nl/mini-oled-display-wit-096-inch-128x64-i2c.html) |
+| Soil moisture sensor with voltage regulator | 1 | €4.00 | [Otronic](https://www.otronic.nl/nl/bodemvochtsensor-met-voltage-regulator.html) |
+| Waterproof temperature probe | 1 | €2.95 | [Otronic](https://www.otronic.nl/nl/ds18b20-waterdichte-probe-temperatuursensor-1m-kab.html) |
+| ESP32-C3 Wi-Fi & BLE board | 1 | €4.99 | [Otronic](https://www.otronic.nl/nl/esp32-c3-wi-fi-ble.html) |
+| ESP32-S3 development board | 1 | €12.95 | [Otronic](https://www.otronic.nl/nl/esp32-s3-n16r8-devkitc-16mb-flash-en-8mb-psram.html) |
+| 10x 4.7 kΩ resistors, 1/4 W 5% | 1 | €1.25 | [Otronic](https://www.otronic.nl/nl/10x-weerstand-4k7-ohm-1-4-watt-5.html) |
+| 3-core cable 22 AWG, 1 m, red/green/white | 1 | €0.85 | [Otronic](https://www.otronic.nl/nl/3-aderig-kabel-22awg-13mm-rood-groen-wit-140568442.html) |
+| Shrink tubing assortment, 328 pieces | 1 | €4.70 | [Otronic](https://www.otronic.nl/nl/assortiment-krimpkousen-21-328-stuks-5-kleuren-8-d.html) |
+| Omnidirectional microphone module | 1 | €6.10 | [Otronic](https://www.otronic.nl/nl/omnidirectionele-microfoon-inmp441-mems-33v.html) |
+
 ## PCB and CAD choices
 
 For this project I have decided that I do NOT want to use a pcb. That is bc I want to be able to add as much expantions as I want, which I just cant with a pcb.
@@ -16,6 +32,3 @@ So, what about what? Well, the desk node will be placed on my ||Desk|| and the p
 
 
 Im placing the denk node on here.
-
-## BOM
-
