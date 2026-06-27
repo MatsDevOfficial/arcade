@@ -27,7 +27,7 @@ CAD is a different thing. I very sure want some enclosures, but do not have the 
 # ABOUT THE JOURNALS
 This project will be resubmitted a third time, after making adjustments to (1) deflate time and (2) add CAD. I tried to debloat the time as much as possible, but since im not sure I am tracking time via lapse or, if not available undercompensating hours to balance out possibly inflated hours from the start of the project.
 
-
+## Piccas
 So, what about what? Well, the desk node will be placed on my ||Desk|| and the plant node will be placed in my garden. <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3b6a5755-8ffd-469e-b273-1de1fc6f9e60" />
 
 
@@ -36,3 +36,8 @@ Im placing the denk node on here.
 | This is a render of the plant node. |
 |----------------------------------|
 | <img width="855" height="630" alt="image" src="https://github.com/user-attachments/assets/b90e2d0a-a6b8-4005-8a6c-661a7ee7785a" /> |
+
+
+| This is a preview of the wiring |
+|---------------------------------|
+| <img width="636" height="307" alt="image" src="https://github.com/user-attachments/assets/1f618ef5-d53f-4071-8164-f786f76278a7" /> |
