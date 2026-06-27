@@ -32,3 +32,7 @@ So, what about what? Well, the desk node will be placed on my ||Desk|| and the p
 
 
 Im placing the denk node on here.
+
+| This is a render of the plant node. |
+|----------------------------------|
+| <img width="855" height="630" alt="image" src="https://github.com/user-attachments/assets/b90e2d0a-a6b8-4005-8a6c-661a7ee7785a" /> |
